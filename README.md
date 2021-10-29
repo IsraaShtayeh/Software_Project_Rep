@@ -16,7 +16,7 @@ Delevirables/Backlog for sprint #1 :
 *build the website, name it, have an initial vision.
 *Designing HomePage with a Profile for the university including features mentioned.
 *Setting up the Log In button 
-*Subsequentally building up the DateBase
+*Subsequently building up the DateBase
 _______________________________________________________________________________________________________________________________________________________________________________
 
 The INITIAL Database managed by Randa and Israa having two entities (for login and register buttons); Student and Teacher 
@@ -34,3 +34,29 @@ Website Designed by Asma & Dana
 5-Login and Register Page:
 ![2021-10-27 (14)](https://user-images.githubusercontent.com/93239018/139060818-0543440e-2a40-4c5b-9038-87ea0c096bd4.png)
 ![2021-10-27 (15)](https://user-images.githubusercontent.com/93239018/139063613-b2ef18dd-6fdc-4008-9bdb-83fb52acff18.png)
+_______________________________________________________________________________________________________________________________________________________________________________
+
+/////////////////RELATIVE ESTIMATION///////////
+Build the Websit >> Design HomePage >> Design a profile for the university >>Setting up log in button with forget password >> establish Database
+-------------->----------------->-----------------TIME CONSUMING-------------->-------------------->----------------------->------------------->
+_______________________________________________________________________________________________________________________________________________________________________________
+A Forcast of how to get things done:
+Having  an initial vision to create the website includes uncertainty about the exact requirements so its the hardest in dealing with custoemer because the full vision is not clear yet,but practically it doesn't consume much time to establish the website.
+Designing the home page has fanmiliar steps with no need to learn new skills
+so as designing the profile for the university its basically does not have uncertainty but the effort and time collecting data, 
+thus,designing log in button get us learning how to make the 'forget password' and recover it by Email technique so we can predicate that its more time consuming,
+Finally, Database officials that database will be the most time consumer collecting Data about students and teachers plus doing technical work.
+_______________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
