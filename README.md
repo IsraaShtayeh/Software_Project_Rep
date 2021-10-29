@@ -1,10 +1,10 @@
-Group Name : Hackabellas
-Roles for sprint #1 :
-1-Randa Alawneh -DataBaseManagement +Scrum Master
-2-Israa Shtayeh - DataBaseManagement
-3-Asmaa Khalilia -Website GUI
-4-Dana Ramadan - Website GUI
-5-Masa Masri -Documents
+Group Name : Hackabellas <br />
+Roles for sprint #1 : <br />
+1-Randa Alawneh -DataBaseManagement +Scrum Master <br /> 
+2-Israa Shtayeh - DataBaseManagement <br />
+3-Asmaa Khalilia -Website GUI<br />
+4-Dana Ramadan - Website GUI<br />
+5-Masa Masri -Documents<br />
 _______________________________________________________________________________________________________________________________________________________________________________
 
 We're a group of five girls building an interacive Website called 'HappyGrades' for flexible Commonication between University entities, allowing Instructors (Proffesors and TA's) to Publish  Course Gradings for Students so as students can review their Marks, Comminucate with thier instructors and more.
@@ -12,7 +12,7 @@ As you can see through the website Home Page, this software  has additional feat
 _______________________________________________________________________________________________________________________________________________________________________________
 
 for sprint#1 (Due 30oct,2021)
-[]Delevirables/Backlog for sprint #1 :
+Delevirables/Backlog for sprint #1 :
 *build the website, name it, have an initial vision.
 *Designing HomePage with a Profile for the university including features mentioned.
 *Setting up the Log In button 
