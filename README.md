@@ -12,7 +12,7 @@ As you can see through the website Home Page, this software  has additional feat
 _______________________________________________________________________________________________________________________________________________________________________________
 
 for sprint#1 (Due 30oct,2021)
-Delevirables/Backlog for sprint #1 :
+[]Delevirables/Backlog for sprint #1 :
 *build the website, name it, have an initial vision.
 *Designing HomePage with a Profile for the university including features mentioned.
 *Setting up the Log In button 
@@ -40,7 +40,7 @@ ________________________________________________________________________________
 Build the Websit >> Design HomePage >> Design a profile for the university >>Setting up log in button with forget password >> establish Database
 -------------->----------------->-----------------TIME CONSUMING-------------->-------------------->----------------------->------------------->
 _______________________________________________________________________________________________________________________________________________________________________________
-A Forcast of how to get things done:
+**A Forcast of how to get things done**:
 Having  an initial vision to create the website includes uncertainty about the exact requirements so its the hardest in dealing with custoemer because the full vision is not clear yet,but practically it doesn't consume much time to establish the website.
 Designing the home page has fanmiliar steps with no need to learn new skills
 so as designing the profile for the university its basically does not have uncertainty but the effort and time collecting data, 
