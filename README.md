@@ -49,7 +49,8 @@ thus,designing log in button get us learning how to make the 'forget password' a
 Finally, Database officials that database will be the most time consumer collecting Data about students and teachers plus doing technical work.
 _______________________________________________________________________________________________________________________________________________________________________________
 A meeting for our group : <br />
-![250257306_1031018684344402_2878956590904587182_n](https://user-images.githubusercontent.com/93239018/139496377-572ffc8f-5bc0-4816-bbe0-433f5a4d7ef6.jpg)
+![250257306_1031018684344402_2878956590904587182_n](https://user-images.githubusercontent.com/93239018/139502984-525eb784-d0a5-400e-b3aa-2b744214a62d.jpg)
+
 in this meating we made tasks distribution and instant deliverables clear, we discussed what each member of the team have worked in the last 24 hours so we annotated this:<br />
 Esraa and Randa have sketched tables for the Database.<br />
 Dana and Asma have sketched an initial sketch for how the GUI design is going to be, with the rest of the team inspiring them and giving eachone's vision.<br />
