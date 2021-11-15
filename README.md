@@ -5,6 +5,8 @@ Roles for sprint #1 : <br />
 3-Asmaa Khalilia -Website GUI<br />
 4-Dana Ramadan - Website GUI<br />
 5-Masa Masri -Documents<br />
+__________________________________________________________________________________________________________________________________________________________________________
+Trello channel: https://trello.com/b/UjCggLto/software?fbclid=IwAR0Qk4lehQBvwEk9FEpPFciRTVlPAm00R0zv-N_uvGG_mUkgRylqy-gISio
 _______________________________________________________________________________________________________________________________________________________________________________
 
 We're a group of five girls building an interacive Website called 'HappyGrades' for flexible Commonication between University entities, allowing Instructors (Proffesors and TA's) to Publish  Course Gradings for Students so as students can review their Marks, Comminucate with thier instructors and more.
