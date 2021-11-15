@@ -61,10 +61,9 @@ Then we agreed about the next step in this sprint and put plans for the next 24 
 3- Masa will keep documinting steps token by the team plus collecting data for the database and photos thus for the graphical design.<br />
 _______________________________________________________________________________________________________________________________________________________________________________
 
+the UML for our project:
 
-
-
-
+![2021-11-15](https://user-images.githubusercontent.com/93239018/141845444-f84f68f0-560d-4533-a0ab-5a527a76149f.png)
 
 
 
