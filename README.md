@@ -112,3 +112,9 @@ poor internet connection in the meeting place made us have proplems seeing the f
 _______________________________________________________________________________________________________________________________________________________________________________
 Sprint Review:<br />
 we made sure that everything is woring on th weebsite, we met with the customer and she cancelled the edit history and asked for a new feature that is adding a percentage for each assignmet so as the totalgrade can be calculated,this feature will be have property in sprint three.
+![257989226_449012143237593_8424862481670844520_n](https://user-images.githubusercontent.com/93239018/142074983-27f079ac-4a47-41d7-9040-95de4d67cd91.jpg)
+![257503109_306124787818113_2952149915547243979_n](https://user-images.githubusercontent.com/93239018/142074994-b181be3a-4a6e-43e7-8dbd-cd7aab1f502d.jpg)
+![257943659_190059599944464_1647690732991377092_n](https://user-images.githubusercontent.com/93239018/142075027-d2d785e7-21b1-40b6-84e5-bb5f3d451229.jpg)
+![257943181_1051338695644092_5517422373400489495_n](https://user-images.githubusercontent.com/93239018/142075032-3f621b49-f5e2-4f58-870a-cf5ff260bc89.jpg)
+_______________________________________________________________________________________________________________________________________________________________________________
+***Sprint 3**
