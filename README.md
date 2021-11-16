@@ -1,18 +1,28 @@
 Group Name : Hackabellas <br />
+Product name: HappyGrades-website
+Development team names : <br />
+1-Randa Alawneh<br /> 
+2-Israa Shtayeh  <br />
+3-Asmaa Khalilia<br />
+4-Dana Ramadan  <br />
+5-Masa Masri 
+______________________________________________________________________________________________________________________________________________________________________________
+
+We're a group of five girls building an interacive Website called 'HappyGrades' for flexible Commonication between University entities, allowing Instructors (Proffesors and TA's) to Publish  Course Gradings for Students so as students can review their Marks, Comminucate with thier instructors and more.
+As you can see through the website Home Page, this software  has additional features including a privileged Gallery having photos of physical Campus, Details and photos for each  department Severally, Allowing any one to see the previous features without the eed to belong to the university (without logging in).
+
+_______________________________________________________________________________________________________________________________________________________________________________
+Trello channel: https://trello.com/b/UjCggLto/software?fbclid=IwAR0Qk4lehQBvwEk9FEpPFciRTVlPAm00R0zv-N_uvGG_mUkgRylqy-gISio<br />
+user stories: https://docs.google.com/spreadsheets/d/1mJ4fBmf6AHYwDy7O8qdbIx6aQ4H3Zzaa_9gV81aIbLg/edit#gid=0
+_______________________________________________________________________________________________________________________________________________________________________________
+
 Roles for sprint #1 : <br />
 1-Randa Alawneh -DataBaseManagement +Scrum Master <br /> 
 2-Israa Shtayeh - DataBaseManagement <br />
 3-Asmaa Khalilia -Website GUI<br />
 4-Dana Ramadan - Website GUI<br />
 5-Masa Masri -Documents<br />
-__________________________________________________________________________________________________________________________________________________________________________
-Trello channel: https://trello.com/b/UjCggLto/software?fbclid=IwAR0Qk4lehQBvwEk9FEpPFciRTVlPAm00R0zv-N_uvGG_mUkgRylqy-gISio
-_______________________________________________________________________________________________________________________________________________________________________________
-
-We're a group of five girls building an interacive Website called 'HappyGrades' for flexible Commonication between University entities, allowing Instructors (Proffesors and TA's) to Publish  Course Gradings for Students so as students can review their Marks, Comminucate with thier instructors and more.
-As you can see through the website Home Page, this software  has additional features including a privileged Gallery having photos of physical Campus, Details and photos for each  department Severally, Allowing any one to see the previous features without the eed to belong to the university (without logging in).
-
-_______________________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________
 
 for sprint#1 (Due 30oct,2021) <br />
 Delevirables/Backlog for sprint #1 :<br />
@@ -50,9 +60,13 @@ so as designing the profile for the university its basically does not have uncer
 thus,designing log in button get us learning how to make the 'forget password' and recover it by Email technique so we can predicate that its more time consuming,
 Finally, Database officials that database will be the most time consumer collecting Data about students and teachers plus doing technical work.
 _______________________________________________________________________________________________________________________________________________________________________________
+Impedents:<br />
+we had some hardships learning how to use new tools as trello and slack.
+_______________________________________________________________________________________________________________________________________________________________________________
 A meeting for our group : <br />
 ![250257306_1031018684344402_2878956590904587182_n](https://user-images.githubusercontent.com/93239018/139502984-525eb784-d0a5-400e-b3aa-2b744214a62d.jpg)
-
+we made a sprint review<br />
+there were proplems with the log in button and we fixed it by using another method for it.<br />
 in this meating we made tasks distribution and instant deliverables clear, we discussed what each member of the team have worked in the last 24 hours so we annotated this:<br />
 Esraa and Randa have sketched tables for the Database.<br />
 Dana and Asma have sketched an initial sketch for how the GUI design is going to be, with the rest of the team inspiring them and giving eachone's vision.<br />
@@ -61,13 +75,40 @@ Then we agreed about the next step in this sprint and put plans for the next 24 
 1-Esraa and Randa will continue building the database.<br />
 2-Dana and Asma will start Desiging the final sketch for the sprint <br />
 3- Masa will keep documinting steps token by the team plus collecting data for the database and photos thus for the graphical design.<br />
+
 _______________________________________________________________________________________________________________________________________________________________________________
 
-the UML for our project:
+the UML for our project: <br />
 
 ![2021-11-15](https://user-images.githubusercontent.com/93239018/141845444-f84f68f0-560d-4533-a0ab-5a527a76149f.png)
 
-
-
-
-
+_______________________________________________________________________________________________________________________________________________________________________________
+*****************SECOND SPRINT*********** <br />
+User Stories for both sprints( the user stories for the first sprint are already added on trello before its deadline). <br />
+![Screenshot (11)](https://user-images.githubusercontent.com/93239018/142060255-5a7ab16d-d23e-4e40-9d88-753ce9f93745.png)
+_______________________________________________________________________________________________________________________________________________________________________________
+Roles for sprint #2 : <br />
+1-Randa Alawneh -DataBaseManagement  <br /> 
+2-Israa Shtayeh - DataBaseManagement <br />
+3-Asmaa Khalilia -Website GUI<br />
+4-Dana Ramadan - Website GUI<br />
+5-Masa Masri -Documents +Scrum Master <br />
+_______________________________________________________________________________________________________________________________________________________________________________
+Second sprint backlog:<br />
+1-Designing students and teachers profiles.<br />
+2-doing the assignment section. <br />
+3-continuing the database buliding for the new features.<br />
+_______________________________________________________________________________________________________________________________________________________________________________
+BACKLOG INTO TASKS:<br />
+1- randa and israa adding assignment and marks in tables for database<br />
+2-asma and dana are designing student and proff profiles and pages for assignments <br />
+3-masa takes care of documents +scrum master.<br />
+_______________________________________________________________________________________________________________________________________________________________________________
+an evidence of physical meeting to discuss What did we do to meet the Sprint Goal and what will we do  next  to meet the Sprint Goal is on trello (photo)
+we already had a clear vision for the second sprint before that meeting and we discussed some points to make the design have it's best user experience and tried to take ideas and inspiration from predesigned websites.
+_______________________________________________________________________________________________________________________________________________________________________________
+ impediment that prevents the Development Team from meeting the Sprint Goal:<br />
+poor internet connection in the meeting place made us have proplems seeing the features on the website that are linked with online packages.
+_______________________________________________________________________________________________________________________________________________________________________________
+Sprint Review:<br />
+we made sure that everything is woring on th weebsite, we met with the customer and she cancelled the edit history and asked for a new feature that is adding a percentage for each assignmet so as the totalgrade can be calculated,this feature will be have property in sprint three.
