@@ -116,5 +116,10 @@ we made sure that everything is woring on th weebsite, we met with the customer 
 ![257503109_306124787818113_2952149915547243979_n](https://user-images.githubusercontent.com/93239018/142074994-b181be3a-4a6e-43e7-8dbd-cd7aab1f502d.jpg)
 ![257943659_190059599944464_1647690732991377092_n](https://user-images.githubusercontent.com/93239018/142075027-d2d785e7-21b1-40b6-84e5-bb5f3d451229.jpg)
 ![257943181_1051338695644092_5517422373400489495_n](https://user-images.githubusercontent.com/93239018/142075032-3f621b49-f5e2-4f58-870a-cf5ff260bc89.jpg)
+![258038630_680767006239161_8000530408664633266_n](https://user-images.githubusercontent.com/93239018/142266974-a113748d-e06d-42b4-9417-9c398f800991.png)
+![257977972_240707914821851_3902745551527607322_n](https://user-images.githubusercontent.com/93239018/142266979-e75f44db-3253-4211-9d47-5cd1afe513ec.png)
+![257249009_312676070710497_4843801168074776932_n](https://user-images.githubusercontent.com/93239018/142266983-e8fa7c15-b592-46c7-9a34-0f52b0035f08.png)
+![257360896_992156274975590_8411136685968121068_n](https://user-images.githubusercontent.com/93239018/142266994-c432124b-344f-4cd3-aa76-1720fd57b415.png)
+
 _______________________________________________________________________________________________________________________________________________________________________________
 ***Sprint 3**
