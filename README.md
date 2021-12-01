@@ -122,4 +122,9 @@ we made sure that everything is woring on th weebsite, we met with the customer 
 ![257360896_992156274975590_8411136685968121068_n](https://user-images.githubusercontent.com/93239018/142266994-c432124b-344f-4cd3-aa76-1720fd57b415.png)
 
 _______________________________________________________________________________________________________________________________________________________________________________
-***Sprint 3**
+***Sprint 3**<br />
+Backlog :<br />
+1- group chat section<br />
+2- adding assignment section <br />
+3- making integrated test for the whole website to make sure it is reliable.<br />
+
