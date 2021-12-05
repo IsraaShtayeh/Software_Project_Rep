@@ -123,9 +123,28 @@ we made sure that everything is working on th website, we met with the customer 
 
 _______________________________________________________________________________________________________________________________________________________________________________
 ***Sprint 3**<br />
+Roles for sprint #1 : <br />
+1-Randa Alawneh -DataBaseManagement  <br /> 
+2-Israa Shtayeh - DataBaseManagement <br />
+3-Asmaa Khalilia -Website GUI +Scrum Master<br />
+4-Dana Ramadan - Website GUI<br />
+5-Masa Masri -Documents <br />
 Backlog :<br />
 1- group chat section<br />
-2- adding assignment section <br />
+2- adding assignment section with average  <br />
 3- making integrated test for the whole website to make sure it is reliable.<br />
-
+evidence that you paired:
+![263168708_440210667765732_7604301463041800860_n](https://user-images.githubusercontent.com/93239018/144750426-5936c2a1-9c6c-4510-9f76-d30f2ddf0df7.jpg)
+user stories:
 ![image](https://user-images.githubusercontent.com/87979220/144224460-096ffbd1-1a40-4568-a376-f0356f92c753.png)
+![263311732_1281283062294894_989063570543389220_n](https://user-images.githubusercontent.com/93239018/144750703-0fbff5a3-a210-4676-8c53-c2f74734f4f8.jpg)
+
+![263498504_921058785196256_3258112680715653203_n](https://user-images.githubusercontent.com/93239018/144750706-250c0eb2-6267-4764-871f-ae9a392f331d.jpg)
+![263534943_1903660226500029_951505298071197821_n](https://user-images.githubusercontent.com/93239018/144750710-191619bd-12f9-4e4a-b4f8-0dc166ce115b.jpg)
+
+![263334730_297573525588276_836681207791411592_n](https://user-images.githubusercontent.com/93239018/144750715-267331bd-2186-4998-9ede-94f0dea5bb1e.jpg)
+![263454381_934121923875414_3818173362148637827_n](https://user-images.githubusercontent.com/93239018/144750727-083bb288-5e5c-4203-9d4c-a8efa5fc785c.jpg)
+![263334730_297573525588276_836681207791411592_n](https://user-images.githubusercontent.com/93239018/144750754-7533666a-22d1-4fe7-9b55-e866cf33b99c.jpg)
+
+![263454381_934121923875414_3818173362148637827_n](https://user-images.githubusercontent.com/93239018/144750760-956053f0-0dd2-4190-aa75-2514e6b350a0.jpg)
+
